@@ -6,6 +6,30 @@
       "sourceType": "github",
       "skillPath": "skills/frontend-design/SKILL.md",
       "computedHash": "063a0e6448123cd359ad0044cc46b0e490cc7964d45ef4bb9fd842bd2ffbca67"
+    },
+    "offer-onboarding": {
+      "source": "sabahudin-web/offer-creation",
+      "sourceType": "github",
+      "skillPath": "skills/offer-onboarding/SKILL.md",
+      "computedHash": "2521acfcb7b6a43d18af28c1728e23185c495389ac5da0dd5c2cc8d273da04f5"
+    },
+    "offer-pitch-deck": {
+      "source": "sabahudin-web/offer-creation",
+      "sourceType": "github",
+      "skillPath": "skills/offer-pitch-deck/SKILL.md",
+      "computedHash": "fc8f128029d4bf17b655892045dbbe4b73722ed9ba85e05d25ea1e208e5e50e1"
+    },
+    "offer-landing-page": {
+      "source": "sabahudin-web/offer-creation",
+      "sourceType": "github",
+      "skillPath": "skills/offer-landing-page/SKILL.md",
+      "computedHash": "75eba7857a061bbe53ac430e6f726a4c032e8d6c9d3f452ed63763c70b128c17"
+    },
+    "offer-dm-opener": {
+      "source": "sabahudin-web/offer-creation",
+      "sourceType": "github",
+      "skillPath": "skills/offer-dm-opener/SKILL.md",
+      "computedHash": "5ccbbbb0e35b109b598c77daf64b2a7f9bbed86d9d7999831ae6de95b6d8fc42"
     }
   }
 }
